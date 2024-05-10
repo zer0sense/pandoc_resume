@@ -9,20 +9,23 @@ Joshua Gaede
 Objective
 ---------
 
-Joshua Gaede is a cyber security and networking professional who is a life long learner and innovative thinker. Joshua Gaede has proven to be a critical asset in unique challenges presented in large scale migration technical issues and challenges to restore business operations . His enthusiasm continually grows his awareness of new technologies and cyber security news to bring creative solutions to improve and strengthen business security postures. 
+Joshua Gaede is a cyber security professional who is a life long learner and innovative thinker. Joshua Gaede has proven to be a critical asset in unique challenges presented in large scale migration technical issues and challenges to restore business operations . His enthusiasm continually grows his awareness of new technologies and cyber security news to bring creative solutions to improve and strengthen business security postures. 
 
 ### 
 
 
-Key System Administration Achievements
+Key Cyber Security Achievements
 ----------
 
-* Successfully supported the requirement to set up 9 new lab instruments over TCP/IP for the Camp Humphreys military hospital's lab. Task was a first of its kind for supporting proprietary the communication to the electronic health record server over TCP/IP. Accomplished task ahead of 1 week deadline, and contributed to the largest lab in Korea to be fully functional upon hospital opening.
-* Isolated a lab instrument connection to a faulty cable that was changed during a networking rack re-cabling project. Lab instrument connected to a media converter that did not support auto MDIX. Changed cable to crossover cable to restore the connection of the instrument. Restoring the capabilities of the local lab to 100%. 
-* Deployed enterprise firewall to evaluate IDS/IPS, DNS blocking, VLAN communication, VPN access, and access control lists for secure and private communication to my home lab, and LACP. Learning and developing techniques and industry standards of enterprise environments.
-* Simulated enterprise wireless security architecture deployment utilized lightweight access points and a software based controller to support multiple SSID's and a mesh environment.
+* Currently top 4% of 929,000 using the hands-on offensive cyber range,TryHackMe. Utilized chained exploitation techniques to successfully complete Advent of Cyber 2020/2021 and other challenges. Demonstrated experience with  mainstream ethical hacking tools and techniques.
+	* Enumerating target machines using nmap, Burpsuite, gobuster, smbclient, and wireshark.
+	* Exploitation of vulnerabilities by using reverse or bind shells, cross-site scripting, and metasploit
+	* Privilege escalation with tools such as linpeas to find SUID binaries, and researching specific software versions for exploitable CVE's on Rapid7 and Exploit-DB
+	* Identify and exploit OWASP Top 10 misconfigurations and vulnerabilities such as SQLi, XXE Payloads, and IDOR vulnerabilities.
+* Configured type 1 hypervisor to set up Windows Server 2019 active directory domain used for cyber security research for Windows privilege escalation and exploitation. Actively using techniques such as SMB relay and LLMNR poisoning. 
+* Deployed enterprise firewall to evaluate IDS/IPS, DNS blocking, VLAN communication, VPN access, and access control lists for secure and private communication to my home lab. Learning and developing techniques and industry standards of enterprise environments.
+* Simulated enterprise wireless security architecture deployment utilized lightweight access points and a software based controller to simulate cyber security best practices in wireless deployments.
 * Utilized SOAR and other automation technologies to develop and deploy IT and cyber security playbooks on a home lab prior to making available to the public via personal Github.
-* Simulated Cisco small/medium business model deployment in Cisco Packet Tracer software. Deployed multiple Cisco 3850 layer 3 switches with multiple VLANS, trunk ports, IP assignment, usernames, passwords, ACLs, subnetting, and router on a stick configuration. Used troubleshooting labs in preparation of CISCO certification.
 * Simulated Dev Sec Ops infrastructure through docker containerization of enterprise server application on self hosted lab environment. Learning valuable configurations and deployments of infrastructure as code to maintain,operate, and secure containerized applications.
 
 __Korea Site Manager__ 
@@ -45,7 +48,7 @@ _Leidos_ May 2016 - Present
 
 __CYBER SECURITY ENGINEER__ 
 
-_Root Access Protection_ June 2021 - Jan 2022 - _Intern_
+_Root Access Protection_ June 2021 - Present
 
 * Help establish and prioritize Key Performance Indicators, reporting, and metrics to track maturity of Root Access Productions and its subsidiaries. 
 * Provides technical expertise and advice on various areas of security technology, including: network security, platform security, and security frameworks in a consulting capacity.
@@ -88,16 +91,10 @@ Education and Training
 
 __TCM Security Academy__
 
-Practical Ethical Hacking 
+_Practical Ethical Hacking_ 
   
 __INE__
 
-Penetration Testing Student
+_Penetration Testing Student_ 
 
-__ITproTV__
 
-CCNA 200-301 _100% of training videos completed_
-
-__CBT Nuggets__
-
-CCNA 200-301 _100% of training videos completed_
