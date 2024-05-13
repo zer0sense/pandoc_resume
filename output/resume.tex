@@ -1,0 +1,335 @@
+% Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+% Copyright 2014 Mark Szepieniec <http://github.com/mszep>
+% 
+% ConText style for making a resume with pandoc. Inspired by moderncv.
+% 
+% This CSS document is delivered to you under the CC BY-SA 3.0 License.
+% https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+\startmode[*mkii]
+  \enableregime[utf-8]  
+  \setupcolors[state=start]
+\stopmode
+
+\setupcolor[hex]
+\definecolor[titlegrey][h=757575]
+\definecolor[sectioncolor][h=397249]
+\definecolor[rulecolor][h=9cb770]
+
+% Enable hyperlinks
+\setupinteraction[state=start, color=sectioncolor]
+
+\setuppapersize [A4][A4]
+\setuplayout    [width=middle, height=middle,
+                 backspace=20mm, cutspace=0mm,
+                 topspace=10mm, bottomspace=20mm,
+                 header=0mm, footer=0mm]
+
+%\setuppagenumbering[location={footer,center}]
+
+\setupbodyfont[11pt, helvetica]
+
+\setupwhitespace[medium]
+
+\setupblackrules[width=31mm, color=rulecolor]
+
+\setuphead[chapter]      [style=\tfd]
+\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+                          before={\leavevmode\blackrule\hspace}]
+\setuphead[subsubsection][style=\bf]
+
+\setuphead[chapter, section, subsection, subsubsection][number=no]
+
+%\setupdescriptions[width=10mm]
+
+\definedescription
+  [description]
+  [headstyle=bold, style=normal,
+   location=hanging, width=18mm, distance=14mm, margin=0cm]
+
+\setupitemize[autointro, packed]    % prevent orphan list intro
+\setupitemize[indentnext=no]
+
+\defineitemgroup[enumerate]
+\setupenumerate[each][fit][itemalign=left,distance=.5em,style={\feature[+][default:tnum]}]
+
+\setupfloat[figure][default={here,nonumber}]
+\setupfloat[table][default={here,nonumber}]
+
+\setuptables[textwidth=max, HL=none]
+\setupxtable[frame=off,option={stretch,width}]
+
+\setupthinrules[width=15em] % width of horizontal rules
+
+\setupdelimitedtext
+  [blockquote]
+  [before={\setupalign[middle]},
+   indentnext=no,
+  ]
+
+
+\starttext
+
+\section[title={Joshua Gaede},reference={joshua-gaede}]
+
+\startitemize[packed]
+\item
+  Email: Joshua.S.Gaede@gmail.com
+\item
+  Website: https://kalifornia909.info
+\item
+  Github: https://github.com/zer0sense
+\stopitemize
+
+\subsection[title={Objective},reference={objective}]
+
+Joshua Gaede is a cyber security professional who is a life long learner
+and innovative thinker. Joshua Gaede has proven to be a critical asset
+in unique challenges presented in large scale migration technical issues
+and challenges to restore business operations . His enthusiasm
+continually grows his awareness of new technologies and cyber security
+news to bring creative solutions to improve and strengthen business
+security postures.
+
+\subsubsection[reference={section}]
+
+\subsection[title={Key Cyber Security
+Achievements},reference={key-cyber-security-achievements}]
+
+\startitemize[packed]
+\item
+  Currently top 4\letterpercent{} of 929,000 using the hands-on
+  offensive cyber range,TryHackMe. Utilized chained exploitation
+  techniques to successfully complete Advent of Cyber 2020/2021 and
+  other challenges. Demonstrated experience with mainstream ethical
+  hacking tools and techniques.
+  \startitemize[packed]
+  \item
+    Enumerating target machines using nmap, Burpsuite, gobuster,
+    smbclient, and wireshark.
+  \item
+    Exploitation of vulnerabilities by using reverse or bind shells,
+    cross-site scripting, and metasploit
+  \item
+    Privilege escalation with tools such as linpeas to find SUID
+    binaries, and researching specific software versions for exploitable
+    CVE's on Rapid7 and Exploit-DB
+  \item
+    Identify and exploit OWASP Top 10 misconfigurations and
+    vulnerabilities such as SQLi, XXE Payloads, and IDOR
+    vulnerabilities.
+  \stopitemize
+\item
+  Configured type 1 hypervisor to set up Windows Server 2019 active
+  directory domain used for cyber security research for Windows
+  privilege escalation and exploitation. Actively using techniques such
+  as SMB relay and LLMNR poisoning.
+\item
+  Deployed enterprise firewall to evaluate IDS/IPS, DNS blocking, VLAN
+  communication, VPN access, and access control lists for secure and
+  private communication to my home lab. Learning and developing
+  techniques and industry standards of enterprise environments.
+\item
+  Simulated enterprise wireless security architecture deployment
+  utilized lightweight access points and a software based controller to
+  simulate cyber security best practices in wireless deployments.
+\item
+  Utilized SOAR and other automation technologies to develop and deploy
+  IT and cyber security playbooks on a home lab prior to making
+  available to the public via personal Github.
+\item
+  Simulated Dev Sec Ops infrastructure through docker containerization
+  of enterprise server application on self hosted lab environment.
+  Learning valuable configurations and deployments of infrastructure as
+  code to maintain,operate, and secure containerized applications.
+\stopitemize
+
+{\bf CYBER SECURITY ENGINEER}
+
+{\em Root Access Protection} June 2021 - Present
+
+\startitemize[packed]
+\item
+  Help establish and prioritize Key Performance Indicators, reporting,
+  and metrics to track maturity of Root Access Productions and its
+  subsidiaries.
+\item
+  Provides technical expertise and advice on various areas of security
+  technology, including: network security, platform security, and
+  security frameworks in a consulting capacity.
+\item
+  Coordinate partner agreements and establish business relationships to
+  enhance the quality of the Cyber Insecurity stream and community.
+  Securing partnerships with fortune 100 companies and series A
+  startups.
+\item
+  Interface and coordinate with Root Access protection team to analyze
+  and review mitigation strategies. Provided guidance and assist when
+  strategies need to be enhanced for potential clients.
+\item
+  Using OSINT information gathering techniques, created talking points
+  on a wide range of cyber security topics with industry professionals
+  for Twitch streams. Provided vital insight of an audience of 16K
+  viewers monthly and meeting key performance indicators for stream
+  partners including of fortune 100 companies.
+\stopitemize
+
+{\bf IT and Cyber System Engineer}
+
+{\em Leidos} May 2016 - Present
+
+\startitemize[packed]
+\item
+  System Administrator responsible for verifying scheduled backup
+  completion, and applying backup templates. Monitor system performance,
+  and responsible for outage or degradation reporting. Accomplish
+  functionality and confidence tests for storage server and database
+  functionality ensuring system reliability and availability of the
+  electronic health record database supporting 1300 users.
+\item
+  Operation oversight and execution of Identity Access Management (IAM)
+  functions to include creation, deactivation, and auditing of 1300 user
+  accounts to the electronic health record database by using role-based
+  access controls. Reviewed audit logs of users accounts and access logs
+  for stale accounts and inactivity policy enforcement. Controlling
+  access to critical personal health records for past and present
+  military service members and families (hundreds of millions of
+  records).
+\item
+  Troubleshot and resolved application misconfiguration after Medical
+  Country of Origin Information (MedCOI) application migration to
+  restore access to the electronic health records to the medical
+  community of 1300 users within an hour. Patient care and medical
+  availability minimally impacted for the largest military hospital in
+  South Korea, and minimized the estimated \$23,000 per hour loss in
+  revenue.
+\item
+  Customer support oriented with daily tasks such as isolating,
+  diagnosing, and resolve PC, printer, network, software, and database
+  access issues. Escalating issues not able to be locally resolved to
+  outside agencies with accuracy and information needed to resolve the
+  issues. Individually responsible for the closure of 2000 trouble
+  tickets in 2021. Highlighted for excellence in customer service by
+  customer feedback.
+\item
+  Aided in cyber awareness training and reporting of any possible
+  PHI/PII leakage of sensitive medical records or personal identifiable
+  information. Adverting additional business operations costs of HIPAA
+  violation fines of \$50k per violation with over 10 possible leakages
+  avoided.
+\item
+  Compliance driven. Maintained zero findings in the operation and
+  maintenance of data classification standard and its use in the storage
+  and transmission of sensitive documents to meet HIPAA compliance of
+  electronic health records. Hand selected to pilot enterprise-wide work
+  instructions and standard operating procedures covering over 140 site
+  locations with worldwide coverage.
+\item
+  Provided instrumental support to provide communication of proprietary
+  lab instruments to the electronic health record database, and
+  providing vital continuous patient care for the largest United States
+  military hospital in South Korea. Was key in establishing short notice
+  support of new COVID 19 lab testing instruments connectivity to
+  electronic health records to increase productivity and result
+  accuracy. Responsible for coordinating the effort of establishing
+  communication of new lab analyzer and re-establish existing lab
+  analyzers during hospital relocation to new location in a different
+  city. Facilitating accurate and reliable testing of over 30k patients.
+\stopitemize
+
+\subsection[title={Other Professional
+Experience},reference={other-professional-experience}]
+
+{\bf TRICARE BENEFICIARY SERVICE REPRESENTATIVE}
+
+{\em Leidos} March 2015-May 2016
+
+\startitemize[packed]
+\item
+  Customer Educator delivered public briefings to educate 2500 active
+  duty military on medical benefits offered by Tricare (military health
+  insurance). Public briefer of audiences in excess of 200 personnel,
+  and offered one-on-one counseling to educate military members on their
+  needs and concerns for their benefits.
+\item
+  Responsible for distributing marketing material to ensure target
+  populations are informed of entitlements provided by Tricare. Provided
+  information for technological self-service aid for retirees in order
+  to maintain benefits for life.\crlf
+\item
+  Efficiency oriented by completely revamping and maintaining active
+  file management for 2500 active duty service members assigned to the
+  location. Including logistics preparation of enrollment forms to the
+  national archive for members that depart for all members that rotate
+  through the location following HIPAA compliance for storage and
+  shipping of sensitive documents.
+\stopitemize
+
+{\bf ACMI POD LOADER}
+
+{\em Cubic Worldwide Technical Service} August 2013-March 2015
+
+\startitemize[packed]
+\item
+  Training facilitator providing support of critical United States Air
+  Force pilot training. Allowing instrumental review and planning to
+  ensure offensive advantage and air dominance while minimizing risk.
+  Facilitated combat exercises of large scale training operation to
+  include US and foreign military.
+\stopitemize
+
+{\bf SENIOR AIRCRAFT ARMAMENT MAINTENANCE SUPERVISOR}
+
+{\em United States Air Force} September 1999-August 2013
+
+\startitemize[packed]
+\item
+  Used custom tools and functional tests to provide superior offensive
+  capability of multiple United States Air Force aircraft. Provided
+  support of schedule and unscheduled maintenance of all weapons system
+  components, and ensuring the most capable and reliable weapons system.
+  Computed data to communicate statistic regarding all aspects of
+  aircraft daily flying to include man hours used, scheduling
+  effectiveness, and created custom reports, allowing senior leadership
+  to have insight into daily mission accomplishment.
+\item
+  Documented and reviewed aircraft maintenance logs for inclusion of all
+  maintenance events and discrepancies. Ensured aircraft reliability and
+  safety for flight.
+\item
+  Leader and Trainer of teams of 3 to groups of over 200. Created
+  workplace shift schedule for twenty-four hour operations to include
+  appointments, vacation forecasting, and on-boarding/off-boarding
+  rotations. Mentored junior military members in being successful in
+  military career and preparing them for post-military preparations.
+\item
+  Restructured workplace training program through on-the-job training
+  provisions. Allowing for expedited job qualification of employees.
+  Thereby, increasing productivity and quality of overall product in a
+  high demanding operation tempo of aircraft maintenance.
+\stopitemize
+
+\subsection[title={Education and
+Training},reference={education-and-training}]
+
+\startitemize[packed]
+\item
+  CISCO Certified Entry Networking Technician (CCENT)
+\item
+  CompTIA Security +
+\item
+  CompTIA Network +
+\item
+  CompTIA A +
+\stopitemize
+
+{\bf TCM Security Academy}
+
+{\em Practical Ethical Hacking}
+
+{\bf INE}
+
+{\em Penetration Testing Student}
+
+\stoptext
