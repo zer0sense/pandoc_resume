@@ -20,6 +20,7 @@ Key System Administration Achievements
 * Successfully supported the requirement to set up 9 new lab instruments over TCP/IP for the Camp Humphreys military hospital's lab. Task was a first of its kind for supporting proprietary the communication to the electronic health record server over TCP/IP. Accomplished task ahead of 1 week deadline, and contributed to the largest lab in Korea to be fully functional upon hospital opening.
 * Isolated a lab instrument connection to a faulty cable that was changed during a networking rack re-cabling project. Lab instrument connected to a media converter that did not support auto MDIX. Changed cable to crossover cable to restore the connection of the instrument. Restoring the capabilities of the local lab to 100%. 
 * Deployed enterprise firewall to evaluate IDS/IPS, DNS blocking, VLAN communication, VPN access, and access control lists for secure and private communication to my home lab, and LACP. Learning and developing techniques and industry standards of enterprise environments.
+* Self-hosted DNS server
 * Simulated enterprise wireless security architecture deployment utilized lightweight access points and a software based controller to support multiple SSID's and a mesh environment.
 * Utilized SOAR and other automation technologies to develop and deploy IT and cyber security playbooks on a home lab prior to making available to the public via personal Github.
 * Simulated Cisco small/medium business model deployment in Cisco Packet Tracer software. Deployed multiple Cisco 3850 layer 3 switches with multiple VLANS, trunk ports, IP assignment, usernames, passwords, ACLs, subnetting, and router on a stick configuration. Used troubleshooting labs in preparation of CISCO certification.
@@ -29,12 +30,12 @@ __Korea Site Manager__
 
 _Leidos_ May 2016 - Present 
 
-* Managed the successful migration of electronic health records server stack and SAN to new data center location at Camp Humphreys.
+* Managed the successful migration of electronic health records server stack and SAN to new data center location at new physical data center location.
 	* Coordinated travel requirements, facilitated access control requirements, and logistical support for travel system engineers.
 	* Collaborated with customer for timeline requirements, logistical requirements for server relocation, and proper transportation of PHI removable media.
 	* Point of contact for scheduled downtime coordination, planning, and system restoration of electronic health records to users within downtime window.
 * Revamped outdated work instructions and standard operating procedures for local site reference and training. Individually requested to review enterprise level work instructions and standard operating procedures across contract coverage area worldwide.
-* Oversees personnel, operations, and customer relations for all medical facilities in the Republic of Korea. Manages a team of 7 individuals to support the ROK.
+* Oversaw personnel, operations, and customer relations for all medical facilities in the Republic of Korea. Manages a team of 7 individuals to support the ROK.
 * System Administrator responsible for verifying scheduled backup completion, and applying backup templates. Monitor system performance, and responsible for outage or degradation reporting. Accomplish functionality and confidence tests for storage server and database functionality ensuring system reliability and availability of the electronic health record database supporting 1300 users. 
 * Operation oversight and execution of Identity Access Management (IAM) functions to include creation, deactivation, and auditing of 1300 user accounts to the electronic health record database by using role-based access controls. Reviewed audit logs of users accounts and access logs for stale accounts and inactivity policy enforcement. Controlling access to critical personal health records for past and present military service members and families (hundreds of millions of records).
 * Troubleshot and resolved application misconfiguration after Medical Country of Origin Information (MedCOI) application migration to restore access to the electronic health records to the medical community of 1300 users within an hour. Patient care and medical availability minimally impacted for the largest military hospital in South Korea, and minimized the estimated $23,000 per hour loss in revenue. 

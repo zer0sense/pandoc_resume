@@ -32,12 +32,12 @@ __Korea Site Manager__
 
 _Leidos_ May 2016 - Present 
 
-* Managed the successful migration of electronic health records server stack and SAN to new data center location at Camp Humphreys.
+* MManaged the successful migration of electronic health records server stack and SAN to new data center location at new physical data center location.
 	* Coordinated travel requirements, facilitated access control requirements, and logistical support for travel system engineers.
 	* Collaborated with customer for timeline requirements, logistical requirements for server relocation, and proper transportation of PHI removable media.
 	* Point of contact for scheduled downtime coordination, planning, and system restoration of electronic health records to users within downtime window.
 * Revamped outdated work instructions and standard operating procedures for local site reference and training. Individually requested to review enterprise level work instructions and standard operating procedures across contract coverage area worldwide.
-* Oversees personnel, operations, and customer relations for all medical facilities in the Republic of Korea. Manages a team of 7 individuals to support the ROK.
+* Oversaw personnel, operations, and customer relations for all medical facilities in the Republic of Korea. Manages a team of 7 individuals to support the ROK.
 * System Administrator responsible for verifying scheduled backup completion, and applying backup templates. Monitor system performance, and responsible for outage or degradation reporting. Accomplish functionality and confidence tests for storage server and database functionality ensuring system reliability and availability of the electronic health record database supporting 1300 users. 
 * Operation oversight and execution of Identity Access Management (IAM) functions to include creation, deactivation, and auditing of 1300 user accounts to the electronic health record database by using role-based access controls. Reviewed audit logs of users accounts and access logs for stale accounts and inactivity policy enforcement. Controlling access to critical personal health records for past and present military service members and families (hundreds of millions of records).
 * Troubleshot and resolved application misconfiguration after Medical Country of Origin Information (MedCOI) application migration to restore access to the electronic health records to the medical community of 1300 users within an hour. Patient care and medical availability minimally impacted for the largest military hospital in South Korea, and minimized the estimated $23,000 per hour loss in revenue. 
