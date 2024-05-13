@@ -9,50 +9,72 @@ Joshua Gaede
 Objective
 ---------
 
-Joshua Gaede is a cyber security and networking professional who is a life long learner and innovative thinker. Joshua Gaede has proven to be a critical asset in unique challenges presented in large scale migration technical issues and challenges to restore business operations . His enthusiasm continually grows his awareness of new technologies and cyber security news to bring creative solutions to improve and strengthen business security postures. 
+Dedicated and results-driven Network Administrator with a passion for optimizing network performance and ensuring seamless connectivity. Leveraging advanced technical skills and industry best practices to design, implement, and maintain robust network infrastructures. Committed to enhancing security protocols, minimizing downtime, and delivering superior user experiences. Seeking to contribute expertise in network administration to a dynamic IT team, driving efficiency and innovation in network operations.
 
-### 
-
-
-Key System Administration Achievements
+Key Network Administration Achievements
 ----------
+* **Network Infrastructure Enhancement:**
+	- Implemented specialized tools and conducted rigorous testing to enhance the performance and reliability of network infrastructures, ensuring seamless connectivity and optimal functionality.
+	- Provided comprehensive support for the configuration and maintenance of networking hardware and software components, optimizing network efficiency and uptime.
 
-* Successfully supported the requirement to set up 9 new lab instruments over TCP/IP for the Camp Humphreys military hospital's lab. Task was a first of its kind for supporting proprietary the communication to the electronic health record server over TCP/IP. Accomplished task ahead of 1 week deadline, and contributed to the largest lab in Korea to be fully functional upon hospital opening.
-* Isolated a lab instrument connection to a faulty cable that was changed during a networking rack re-cabling project. Lab instrument connected to a media converter that did not support auto MDIX. Changed cable to crossover cable to restore the connection of the instrument. Restoring the capabilities of the local lab to 100%. 
-* Deployed enterprise firewall to evaluate IDS/IPS, DNS blocking, VLAN communication, VPN access, and access control lists for secure and private communication to my home lab, and LACP. Learning and developing techniques and industry standards of enterprise environments.
-* Self-hosted DNS server
-* Simulated enterprise wireless security architecture deployment utilized lightweight access points and a software based controller to support multiple SSID's and a mesh environment.
-* Utilized SOAR and other automation technologies to develop and deploy IT and cyber security playbooks on a home lab prior to making available to the public via personal Github.
-* Simulated Cisco small/medium business model deployment in Cisco Packet Tracer software. Deployed multiple Cisco 3850 layer 3 switches with multiple VLANS, trunk ports, IP assignment, usernames, passwords, ACLs, subnetting, and router on a stick configuration. Used troubleshooting labs in preparation of CISCO certification.
-* Simulated Dev Sec Ops infrastructure through docker containerization of enterprise server application on self hosted lab environment. Learning valuable configurations and deployments of infrastructure as code to maintain,operate, and secure containerized applications.
+* **Documentation Management and Compliance:**
+	- Maintained meticulous documentation of network configurations and activities, ensuring compliance with industry standards and regulatory requirements.
+	- Reviewed network logs and identified discrepancies to prioritize network stability and security, minimizing risks and vulnerabilities.
+
+* **Leadership in Network Operations:**
+	- Demonstrated leadership and mentoring skills by overseeing network teams and coordinating operational activities, ensuring effective collaboration and achieving project objectives.
+	- Developed and managed network maintenance schedules and procedures, including equipment upgrades and software patches, to minimize disruptions and maximize network performance.
+
+* **Training Program Development and Improvement:**
+	- Revamped network training programs by introducing innovative on-the-job training initiatives and implementing best practices, enhancing the skills and proficiency of network personnel.
+	- Streamlined the qualification process for network engineers, increasing productivity and maintaining high standards in a fast-paced networking environment.
+
+Networking Work Experience
+------------
 
 __Korea Site Manager__ 
 
 _Leidos_ May 2016 - Present 
 
-* Managed the successful migration of electronic health records server stack and SAN to new data center location at new physical data center location.
-	* Coordinated travel requirements, facilitated access control requirements, and logistical support for travel system engineers.
-	* Collaborated with customer for timeline requirements, logistical requirements for server relocation, and proper transportation of PHI removable media.
-	* Point of contact for scheduled downtime coordination, planning, and system restoration of electronic health records to users within downtime window.
-* Revamped outdated work instructions and standard operating procedures for local site reference and training. Individually requested to review enterprise level work instructions and standard operating procedures across contract coverage area worldwide.
-* Oversaw personnel, operations, and customer relations for all medical facilities in the Republic of Korea. Manages a team of 7 individuals to support the ROK.
-* System Administrator responsible for verifying scheduled backup completion, and applying backup templates. Monitor system performance, and responsible for outage or degradation reporting. Accomplish functionality and confidence tests for storage server and database functionality ensuring system reliability and availability of the electronic health record database supporting 1300 users. 
-* Operation oversight and execution of Identity Access Management (IAM) functions to include creation, deactivation, and auditing of 1300 user accounts to the electronic health record database by using role-based access controls. Reviewed audit logs of users accounts and access logs for stale accounts and inactivity policy enforcement. Controlling access to critical personal health records for past and present military service members and families (hundreds of millions of records).
-* Troubleshot and resolved application misconfiguration after Medical Country of Origin Information (MedCOI) application migration to restore access to the electronic health records to the medical community of 1300 users within an hour. Patient care and medical availability minimally impacted for the largest military hospital in South Korea, and minimized the estimated $23,000 per hour loss in revenue. 
-* Customer support oriented with daily tasks such as isolating, diagnosing, and resolve PC, printer, network, software, and database access issues. Escalating issues not able to be locally resolved to outside agencies with accuracy and information needed to resolve the issues. Individually responsible for the closure of 2000 trouble tickets in 2021. Highlighted for excellence in customer service by customer feedback.
-* Aided in cyber awareness training and reporting of any possible PHI/PII leakage of sensitive medical records or personal identifiable information. Adverting additional business operations costs of HIPAA violation fines of $50k per violation with over 10 possible leakages avoided.
-* Compliance driven. Maintained zero findings in the operation and maintenance of data classification standard and its use in the storage and transmission of sensitive documents to meet HIPAA compliance of electronic health records. Hand selected to pilot enterprise-wide work instructions and standard operating procedures covering over 140 site locations with worldwide coverage. 
-* Provided instrumental support to provide communication of proprietary lab instruments to the electronic health record database, and providing vital continuous patient care for the largest United States military hospital in South Korea. Was key in establishing short notice support of new COVID 19 lab testing instruments connectivity to electronic health records to increase productivity and result accuracy. Responsible for coordinating the effort of establishing communication of new lab analyzer and re-establish existing lab analyzers during hospital relocation to new location in a different city. Facilitating accurate and reliable testing of over 30k patients.
+* **Network Infrastructure Management:**
+	- Spearheaded the seamless migration of electronic health records server stack and SAN to a new data center location, ensuring uninterrupted network connectivity and optimal performance.
+	- Orchestrated travel logistics and access control measures for travel system engineers, facilitating smooth deployment and system integration processes.
+	- Collaborated closely with clients to define timeline requirements and logistical aspects of server relocation, minimizing operational disruptions.
+
+* **Infrastructure Optimization and Compliance:**
+	- Overhauled outdated work instructions and standard operating procedures, aligning them with industry best practices and compliance standards.
+	- Managed a team responsible for personnel, operations, and customer relations for medical facilities, ensuring network infrastructure integrity in the Republic of Korea.
+	- Implemented robust backup strategies and monitored system performance, ensuring the reliability and availability of electronic health record databases serving 1300 users.
+
+* **Technical Troubleshooting and Support:**
+	- Resolved application misconfigurations promptly, mitigating downtime and revenue loss for medical facilities.
+	- Provided responsive customer support for PC, printer, network, software, and database access issues, ensuring operational continuity and user satisfaction.
+	- Conducted cyber awareness training and reported potential data breaches, maintaining network security and compliance with HIPAA regulations.
+
+* **Compliance and Documentation Leadership:**
+	- Upheld compliance with data classification standards and HIPAA regulations, guaranteeing secure storage and transmission of sensitive medical records.
+	- Pioneered enterprise-wide work instructions and standard operating procedures, covering multiple site locations globally.
+	- Facilitated seamless communication of proprietary lab instruments with electronic health record databases, ensuring continuous patient care during hospital relocations and instrument deployments.
+
 
 __CYBER SECURITY ENGINEER__ 
 
 _Root Access Protection_ June 2021 - Jan 2022 - _Intern_
 
-* Help establish and prioritize Key Performance Indicators, reporting, and metrics to track maturity of Root Access Productions and its subsidiaries. 
-* Provides technical expertise and advice on various areas of security technology, including: network security, platform security, and security frameworks in a consulting capacity.
-* Coordinate partner agreements and establish business relationships to enhance the quality of the Cyber Insecurity stream and community. Securing partnerships with fortune 100 companies and series A startups.
-* Interface and coordinate with Root Access protection team to analyze and review mitigation strategies. Provided guidance and assist when strategies need to be enhanced for potential clients.
-* Using OSINT information gathering techniques, created talking points on a wide range of cyber security topics with industry professionals for Twitch streams. Provided vital insight of an audience of 16K viewers monthly and meeting key performance indicators for stream partners including of fortune 100 companies.
+* **Strategic Performance Evaluation:**
+  - Led the development and prioritization of Key Performance Indicators (KPIs), reporting, and metrics to evaluate the efficiency and performance of IT operations at Root Access Productions and its subsidiaries.
+
+* **Technical Consultancy and Guidance:**
+  - Provided expert technical guidance in system administration, specializing in critical areas such as network security, platform security, and security frameworks, serving as a trusted advisor to internal teams.
+
+* **Partnership Development and Collaboration:**
+  - Established and managed strategic partnerships within the IT ecosystem to enhance system administration capabilities, fostering collaborations with Fortune 100 companies and Series A startups to drive innovation and growth.
+
+* **Mitigation Strategy Optimization:**
+  - Worked closely with cross-functional teams to evaluate and optimize mitigation strategies, offering essential guidance and assistance in enhancing cybersecurity measures and safeguarding against potential threats.
+
+* **Content Creation and Knowledge Sharing:**
+  - Leveraged advanced OSINT techniques to develop informative content on system administration best practices and emerging trends, delivering valuable insights to a diverse audience of IT professionals through various channels, including Twitch streams. Successfully met performance goals for stream partnerships, including those with Fortune 100 companies.
 
 Other Professional Experience
 ------
@@ -61,9 +83,18 @@ __TRICARE BENEFICIARY SERVICE REPRESENTATIVE__
 
 _Leidos_ March 2015-May 2016 
 
-* Customer Educator delivered public briefings to educate 2500 active duty military on medical benefits offered by Tricare (military health insurance). Public briefer of audiences in excess of 200 personnel, and offered one-on-one counseling to educate military members on their needs and concerns for their benefits. 
-* Responsible for distributing marketing material to ensure target populations are informed of entitlements provided by Tricare. Provided information for technological self-service aid for retirees in order to maintain benefits for life.  
-* Efficiency oriented by completely revamping and maintaining active file management for 2500 active duty service members assigned to the location. Including logistics preparation of enrollment forms to the national archive for members that depart for all members that rotate through the location following HIPAA compliance for storage and shipping of sensitive documents. 
+* **Effective Communication:**
+  - Conducted engaging public briefings to educate 2500 active duty military personnel on the medical benefits offered by Tricare (military health insurance), demonstrating strong public speaking skills.
+  - Delivered one-on-one counseling sessions to address the individual needs and concerns of military members regarding their benefits, showcasing empathy and active listening.
+
+* **Customer Service:**
+  - Acted as a customer educator, providing personalized assistance and guidance to military members, ensuring they were well-informed about their entitlements and benefits.
+  - Distributed marketing materials and utilized technological self-service aids to facilitate access to Tricare benefits, prioritizing customer satisfaction and convenience.
+
+* **Organizational Skills:**
+  - Implemented efficient file management systems to organize and maintain active files for 2500 active duty service members, demonstrating meticulous attention to detail.
+  - Managed logistics for enrollment forms, ensuring compliance with HIPAA regulations for the storage and shipping of sensitive documents, highlighting a commitment to data security and compliance.
+
 
 __ACMI POD LOADER__
 
@@ -75,10 +106,21 @@ __SENIOR AIRCRAFT ARMAMENT MAINTENANCE SUPERVISOR__
 
 _United States Air Force_ September 1999-August 2013 
 
-* Used custom tools and functional tests to provide superior offensive capability of multiple United States Air Force aircraft. Provided support of schedule and unscheduled maintenance of all weapons system components, and ensuring the most capable and reliable weapons system. Computed data to communicate statistic regarding all aspects of aircraft daily flying to include man hours used, scheduling effectiveness, and created custom reports, allowing senior leadership to have insight into daily mission accomplishment. 
-* Documented and reviewed aircraft maintenance logs for inclusion of all maintenance events and discrepancies. Ensured aircraft reliability and safety for flight.
-* Leader and Trainer of teams of 3 to groups of over 200. Created workplace shift schedule for twenty-four hour operations to include appointments, vacation forecasting, and on-boarding/off-boarding rotations. Mentored junior military members in being successful in military career and preparing them for post-military preparations. 
-* Restructured workplace training program through on-the-job training provisions. Allowing for expedited job qualification of employees. Thereby, increasing productivity and quality of overall product in a high demanding operation tempo of aircraft maintenance. 
+* **Operational Enhancement and Data Analysis**
+  * Utilized specialized tools and conducted functional tests to enhance the operational capabilities of multiple United States Air Force aircraft.
+  * Provided comprehensive support for both scheduled and unscheduled maintenance of all weapons system components, ensuring optimal performance and reliability.
+  * Compiled and analyzed data to generate detailed reports on daily aircraft operations, including manpower allocation, scheduling efficiency, and mission accomplishment metrics, enabling senior leadership to make informed decisions.
+
+* **Documentation Management and Safety Compliance**
+  * Maintained meticulous documentation and reviewed aircraft maintenance logs to track all maintenance events and identify discrepancies, prioritizing aircraft reliability and safety for flight operations.
+
+* **Leadership and Team Management**
+  * Demonstrated leadership and training abilities by overseeing teams ranging from 3 to over 200 members.
+  * Developed and managed workplace shift schedules for twenty-four-hour operations, including appointment coordination, vacation planning, and personnel rotation.
+  * Mentored junior military members to succeed in their military careers and prepared them for transition to civilian life.
+
+* **Training Program Development and Improvement**
+  * Revamped workplace training programs by implementing on-the-job training initiatives, streamlining the qualification process for employees, and boosting productivity and quality standards in a fast-paced aircraft maintenance environment.
 
 Education and Training 
 --------------
@@ -87,18 +129,19 @@ Education and Training
 * CompTIA Network +
 * CompTIA A +
 
-__TCM Security Academy__
+* **University of Maryland Global Campus**
+  * Computer Science Major (1 semester)
+  * Languages learned
+    * Python
+    * Java
 
-Practical Ethical Hacking 
-  
-__INE__
-
-Penetration Testing Student
-
-__ITproTV__
-
-CCNA 200-301 _100% of training videos completed_
-
-__CBT Nuggets__
-
-CCNA 200-301 _100% of training videos completed_
+Online Courses Completed
+----------
+* __ITproTV__
+	- CCNA 200-301
+* __CBT Nuggets__
+	- CCNA 200-301
+* __TCM Security Academy__
+	- Practical Ethical Hacking
+* __INE__
+	- Penetration Testing Student

@@ -4,6 +4,7 @@
 result
 output/*.tex
 output/*.tuc
+output/*.log
 result-*
 .envrc
 .direnv
