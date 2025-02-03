@@ -9,30 +9,21 @@ Joshua Gaede
 Objective
 ---------
 
-Experienced System Administrator skilled in navigating complex challenges within the dynamic landscape of medical Information Technology. Demonstrated expertise in resolving intricate technical issues and facilitating large-scale migrations, ensuring seamless business continuity. Committed to leveraging solid problem-solving abilities and comprehensive knowledge to contribute effectively to organizational success.
+IT Specialist with over 8 years of experience in system administration and network management, offering a strong background in PC, server, and network maintenance. Proven expertise in troubleshooting, repair, and security compliance, with a proactive approach to complex IT infrastructure support. Holds active Secret clearance, ready to enhance IT efficiency and reliability for mission-critical environments.
 
-Key System Administrator Achievements
+Key System Administrator and Management Achievements
 ----------
-* **Virtualization and Hypervisor Management:**
-  - Installed, configured, and maintained type 1 hypervisors supporting 21 virtual machines, ensuring efficient resource utilization and system stability.
+* **PC and Server Maintenance**: Extensive experience in installing, configuring, and troubleshooting servers and PCs, ensuring uptime and performance stability across diverse environments.
 
-* **Containerization and Microservices Deployment:**
-  - Implemented containerization using Docker and Docker Compose to deploy 12 microservices, adeptly troubleshooting and resolving container-to-host and container-to-network issues.
+* **Network Infrastructure Support**: Skilled in maintaining and securing internal networks, including wireless networking and LAN setup, ensuring consistent connectivity and security compliance.
 
-* **Automation and Configuration Management:**
-  - Developed an Ansible playbook for deploying software installations, configurations, and system files via an Ansible pull configuration, streamlining deployment processes.
+* **IT Equipment Management**: Proficient in installing, relocating, and maintaining hardware, including UPS systems, cable infrastructure, and communication devices (telephones, secure terminals).
 
-* **Process Automation and Efficiency Improvement:**
-  - Implemented automation for routine tasks using Notepad files, Ansible, and Python scripts, reducing input errors and enhancing task efficiency.
+* **Compliance and Security**: Hands-on experience in sanitizing and securely disposing of IT equipment according to strict security protocols.
 
-* **Documentation Management:**
-  - Established and maintained a self-hosted documentation wiki containing comprehensive references for technology concepts and code snippets, facilitating knowledge sharing and project continuity.
+* **Hardware Accountability**: Coordinated with logistics teams for hardware and software asset tracking, enhancing accountability and readiness across the organization.
 
-* **Continuous Integration and Continuous Deployment (CI/CD):**
-  - Utilized CI/CD pipelines to maintain projects for automations and containerization, ensuring seamless integration and deployment processes for ongoing development efforts.
-
-
-System Administration Work Experience 
+IT Professional Experience
 ---------
 
 __Korea Site Manager__ 
@@ -43,6 +34,7 @@ _Leidos_ May 2016 - Present
   - Orchestrated the seamless migration of electronic health records server stack and SAN to a new data center location, ensuring uninterrupted operations.
   - Coordinated travel logistics and access control for system engineers, facilitating a smooth transition.
   - Collaborated closely with customers to understand timeline requirements and logistical needs, ensuring proper handling of PHI removable media during server relocation.
+  - Sanitized and disposed of electronic media and server hardware containing PHI. 
 
 * **Work Instructions and SOP Enhancement:**
   - Overhauled outdated work instructions and standard operating procedures, enhancing local site reference materials and training resources.
