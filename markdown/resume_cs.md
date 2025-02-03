@@ -9,7 +9,7 @@ Joshua Gaede
 Objective
 ---------
 
-Passionate cybersecurity professional dedicated to lifelong learning and innovative problem-solving. Demonstrated expertise in tackling complex challenges, particularly in large-scale migration and technical issues, to restore business operations. Continuously expanding knowledge of emerging technologies and cybersecurity trends to develop creative solutions that enhance and fortify business security postures.
+IT Specialist with over 8 years of experience in system administration and network management, offering a strong background in PC, server, and network maintenance. Proven expertise in troubleshooting, repair, and security compliance, with a proactive approach to complex IT infrastructure support. Holds active Secret clearance, ready to enhance IT efficiency and reliability for mission-critical environments.
 
 
 Key Cyber Security Achievements

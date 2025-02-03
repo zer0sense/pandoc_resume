@@ -1,0 +1,21 @@
+- support MTF with video teleconferencing 
+- manage function application of an automated call distribution system
+- Support DHA with installing,maintaining, and securing desktop configurations
+- install and configure PC-based medical application software
+- Perform basic PC hardware troubleshooting
+- Support refresh of PC hardware by deploying new computers. Provide support in installation of clinic end user devices, servers, network devices
+- Perform physical installation and initial configuration of MTF routers and switches
+- Assist regional tier 3 teams with installing medical applications and servers.
+- Assist regional Tier 3 teams with troubleshooting and resolving problems with medical infrastructure, IT shared services and medical applications
+- Provided support in maintenance of business continuity and disaster recovery program
+- Perform the following Information System Security functions for the MTF network, IT Shared Services, and MTF-hosted medical applications.
+- Assist Tier 3 teams in applying software updates, security patches, and DISA STIGs
+- Assist Tier 3 teams with mitigating vulnerabilities
+- Provide on-call support for MTF
+
+- multiple years of experience with WAN/LAN to include routers, switches, VPNs
+- multiple years of experience with server/application virtualization
+- multiple years using VMware vSphere
+- multiple years administering windows server
+- multiple years administering windows operating systems
+- 

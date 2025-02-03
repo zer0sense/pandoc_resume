@@ -25,44 +25,72 @@ Key System Administrator and Management Achievements
 
 IT Professional Experience
 ---------
+__Senior System Administrator/ISSO__
+
+_Galapagos_ Jan 2025 - Present
+
+## **IT Support and System Administration:**  
+- Provided technical support for Military Treatment Facilities (MTF), setting up, maintaining, and troubleshooting video teleconferencing software used for remote medical consultations, command briefings, and administrative coordination. Ensured secure and reliable connectivity by configuring software settings, resolving compatibility issues, and training end-users.  
+- Managed and optimized automated call distribution systems, configuring call routing protocols and monitoring system performance to improve response times and enhance the efficiency of medical support operations. Implemented workflow enhancements that reduced call wait times and improved overall communication between healthcare providers and patients.  
+- Installed, configured, and secured Windows desktop environments, enforcing security policies, managing Group Policy Objects (GPOs), and ensuring compliance with Defense Health Agency (DHA) security standards. Hardened operating system settings, deployed security patches, and maintained endpoint protection solutions to safeguard against vulnerabilities.  
+- Diagnosed and resolved PC hardware issues, including troubleshooting motherboard failures, replacing faulty memory and storage devices, and optimizing system performance. Performed hardware upgrades and preventive maintenance to extend the lifecycle of IT assets and minimize downtime.  
+- Configured and maintained routers and switches, establishing secure and reliable network connectivity across multiple locations. Implemented VLANs, configured firewall rules, and optimized Quality of Service (QoS) settings to prioritize mission-critical applications and maintain network integrity.  
+- Assisted in troubleshooting complex IT infrastructure issues, analyzing system logs, diagnosing network latency problems, and coordinating with higher-tier support teams to resolve persistent technical challenges. Leveraged diagnostic tools and security monitoring solutions to proactively identify and mitigate risks.  
+- Developed and implemented business continuity and disaster recovery plans, ensuring operational resilience in the event of system failures, cyber incidents, or natural disasters. Designed and tested backup strategies, failover procedures, and emergency response protocols to minimize disruptions and protect critical healthcare data.  
+- Performed key Information System Security functions, conducting vulnerability assessments, applying security patches, and implementing risk mitigation strategies to ensure compliance with HIPAA, NIST, and DoD cybersecurity standards. Regularly reviewed system access controls, conducted security audits, and provided user training on cyber hygiene best practices.  
+- Provided 24/7 on-call IT support, responding to urgent system issues, network outages, and security incidents to maintain continuous healthcare operations. Worked closely with medical and IT teams to troubleshoot application failures, restore access to critical systems, and ensure the availability of electronic health records (EHR) for patient care.  
 
 __Korea Site Manager__ 
 
-_Leidos_ May 2016 - Present 
+_Leidos_ May 2016 - Dec 2024
 
-* **Managed Data Center Migration:**
-  - Orchestrated the seamless migration of electronic health records server stack and SAN to a new data center location, ensuring uninterrupted operations.
-  - Coordinated travel logistics and access control for system engineers, facilitating a smooth transition.
-  - Collaborated closely with customers to understand timeline requirements and logistical needs, ensuring proper handling of PHI removable media during server relocation.
-  - Sanitized and disposed of electronic media and server hardware containing PHI. 
+# **Korea Site Manager**  
+**Leidos** | May 2016 - Dec 2024  
 
-* **Work Instructions and SOP Enhancement:**
-  - Overhauled outdated work instructions and standard operating procedures, enhancing local site reference materials and training resources.
-  - Personally selected to review and improve enterprise-level work instructions and SOPs across global contract coverage areas, ensuring consistency and effectiveness.
+## **Managed Data Center Migration:**  
+- Orchestrated the seamless migration of electronic health records server stack and SAN to a new data center location, ensuring uninterrupted operations.  
+- Coordinated travel logistics and access control for system engineers, facilitating a smooth transition.  
+- Collaborated closely with customers to understand timeline requirements and logistical needs, ensuring proper handling of PHI removable media during server relocation.  
+- Sanitized and disposed of electronic media and server hardware containing PHI.  
 
-* **Personnel Management and Operations Oversight:**
-  - Led personnel, operations, and customer relations for all medical facilities in the Republic of Korea, overseeing a team of 7 individuals.
-  - Provided guidance and support to ensure operational efficiency and excellence in customer service delivery.
+## **Cybersecurity and Systems Administration:**  
+- Secured and maintained WAN/LAN infrastructure, supported the configuring and managing routers, switches, and VPNs to ensure encrypted communications, prevent unauthorized access, and mitigate network threats during the MEDCOI migration.
+- Administered and hardened Windows Server environments, configuring system settings, enforcing security policies, and managing user access controls.  
+- Administered and maintained Windows operating systems, managing configurations, enforcing security policies, applying updates, and mitigating vulnerabilities to ensure stability, security, and compliance.  
+- Provided technical support and administration for VMware vSphere and server/application virtualization, ensuring secure, isolated environments while troubleshooting performance issues and minimizing attack surfaces.
+- Implemented role-based access controls (RBAC) to enhance system security and enforce least privilege principles.  
+- Monitored and analyzed system logs and network traffic for anomalies, proactively identifying potential security threats and mitigating risks.  
+- Conducted vulnerability assessments and applied security patches to safeguard against known exploits and ensure compliance with industry regulations.  
+- Enforced cybersecurity policies and compliance standards such as HIPAA, NIST, and DoD regulations to maintain data integrity and protect sensitive information.  
 
-* **Technical Administration and System Monitoring:**
-  - Administered system backups and monitored performance, ensuring reliability and availability of the electronic health record database supporting 1300 users.
-  - Implemented role-based access controls and conducted regular audits to maintain data security and compliance standards.
+## **Work Instructions and SOP Enhancement:**  
+- Overhauled outdated work instructions and standard operating procedures, enhancing local site reference materials and training resources.  
+- Personally selected to review and improve enterprise-level work instructions and SOPs across global contract coverage areas, ensuring consistency and effectiveness.  
 
-* **Troubleshooting and Issue Resolution:**
-  - Resolved application misconfigurations promptly, restoring access to electronic health records for 1300 users and minimizing impact on patient care and revenue loss.
-  - Provided comprehensive customer support, diagnosing and resolving PC, printer, network, software, and database access issues, closing 2000 trouble tickets in a single year.
+## **Personnel Management and Operations Oversight:**  
+- Led personnel, operations, and customer relations for all medical facilities in the Republic of Korea, overseeing a team of 7 individuals.  
+- Provided guidance and support to ensure operational efficiency and excellence in customer service delivery.  
 
-* **Cybersecurity and Compliance Leadership:**
-  - Contributed to cyber awareness training and mitigated potential PHI/PII leakage risks, averting costly HIPAA violation fines.
-  - Maintained impeccable compliance with data classification standards and HIPAA regulations, ensuring secure storage and transmission of sensitive documents.
+## **Technical Administration and System Monitoring:**  
+- Administered system backups and monitored performance, ensuring reliability and availability of the electronic health record database supporting 1300 users.  
+- Implemented role-based access controls and conducted regular audits to maintain data security and compliance standards.  
 
-* **Instrumental Technical Support:**
-  - Played a vital role in integrating proprietary lab instruments with the electronic health record database, facilitating continuous patient care and enhancing productivity.
-  - Coordinated efforts to establish communication for new lab testing instruments during hospital relocation, ensuring accurate and reliable testing for over 30k patients.
+## **Troubleshooting and Issue Resolution:**  
+- Resolved application misconfigurations promptly, restoring access to electronic health records for 1300 users and minimizing impact on patient care and revenue loss.  
+- Provided comprehensive customer support, diagnosing and resolving PC, printer, network, software, and database access issues, closing 2000 trouble tickets in a single year.  
+
+## **Cybersecurity and Compliance Leadership:**  
+- Contributed to cyber awareness training and mitigated potential PHI/PII leakage risks, averting costly HIPAA violation fines.  
+- Maintained impeccable compliance with data classification standards and HIPAA regulations, ensuring secure storage and transmission of sensitive documents.  
+
+## **Instrumental Technical Support:**  
+- Played a vital role in integrating proprietary lab instruments with the electronic health record database, facilitating continuous patient care and enhancing productivity.  
+- Coordinated efforts to establish communication for new lab testing instruments during hospital relocation, ensuring accurate and reliable testing for over 30k patients.  
+
 
 __CYBER SECURITY ENGINEER__ 
 
-_Root Access Protection_ June 2021 - Present
+_Root Access Protection_ June 2021 - Dec 2022
 
 * **Strategic Performance Evaluation:**
   - Led the development and prioritization of Key Performance Indicators (KPIs), reporting, and metrics to evaluate the efficiency and performance of IT operations at Root Access Productions and its subsidiaries.

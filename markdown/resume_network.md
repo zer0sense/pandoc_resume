@@ -9,7 +9,7 @@ Joshua Gaede
 Objective
 ---------
 
-Dedicated and results-driven Network Administrator with a passion for optimizing network performance and ensuring seamless connectivity. Leveraging advanced technical skills and industry best practices to design, implement, and maintain robust network infrastructures. Committed to enhancing security protocols, minimizing downtime, and delivering superior user experiences. Seeking to contribute expertise in network administration to a dynamic IT team, driving efficiency and innovation in network operations.
+IT Specialist with over 8 years of experience in system administration and network management, offering a strong background in PC, server, and network maintenance. Proven expertise in troubleshooting, repair, and security compliance, with a proactive approach to complex IT infrastructure support. Holds active Secret clearance, ready to enhance IT efficiency and reliability for mission-critical environments.
 
 Key Network Administration Achievements
 ----------
