@@ -13,15 +13,20 @@ IT Specialist with over 8 years of experience in system administration and netwo
 
 Key System Administrator and Management Achievements
 ----------
-* **PC and Server Maintenance**: Extensive experience in installing, configuring, and troubleshooting servers and PCs, ensuring uptime and performance stability across diverse environments.
 
-* **Network Infrastructure Support**: Skilled in maintaining and securing internal networks, including wireless networking and LAN setup, ensuring consistent connectivity and security compliance.
+* **Virtualization and Hypervisor Management:**
+  – Installed, configured, and maintained type 1 hypervisors supporting 21 virtual machines, ensuring efficient resource utilization and system stability.
+* **Containerization and Microservices Deployment:**
+  – Implemented containerization using Docker and Docker Compose to deploy 12 microservices,adeptly troubleshooting and resolving container-to-host and container-to-network issues.
+* **Automation and Configuration Management:**
+  – Developed an Ansible playbook for deploying software installations, configurations, and system files via an Ansible pull configuration, streamlining deployment processes.
+* **Process Automation and Efficiency Improvement:**
+  – Implemented automation for routine tasks using Notepad files, Ansible, and Python scripts,reducing input errors and enhancing task efficiency.
+* **Documentation Management:**
+  – Established and maintained a self-hosted documentation wiki containing comprehensive references for technology concepts and code snippets, facilitating knowledge sharing and project continuity.
+* **Continuous Integration and Continuous Deployment (CI/CD):**
+  – Utilized CI/CD pipelines to maintain projects for automation and containerization, ensuring seamless integration and deployment processes for ongoing development efforts.
 
-* **IT Equipment Management**: Proficient in installing, relocating, and maintaining hardware, including UPS systems, cable infrastructure, and communication devices (telephones, secure terminals).
-
-* **Compliance and Security**: Hands-on experience in sanitizing and securely disposing of IT equipment according to strict security protocols.
-
-* **Hardware Accountability**: Coordinated with logistics teams for hardware and software asset tracking, enhancing accountability and readiness across the organization.
 
 IT Professional Experience
 ---------
@@ -32,7 +37,10 @@ _Galapagos_ Jan 2025 - Present
 * **IT Support and System Administration:**  
   - Provided technical support for Military Treatment Facilities (MTF), setting up, maintaining, and troubleshooting video teleconferencing software used for remote medical consultations, command briefings, and administrative coordination. Ensured secure and reliable connectivity by configuring software settings, resolving compatibility issues, and training end-users.  
   - Managed and optimized automated call distribution systems, configuring servers to improve response times and enhance the efficiency of medical support operations. Implemented patch support that reduced call wait times and improved overall communication between healthcare professionals and patients.  
-  - Installed, configured, and secured Windows desktop environments, enforcing security policies, managing Group Policy Objects (GPOs), and ensuring compliance with Defense Health Agency (DHA) security standards. Hardened operating system settings, deployed security patches, and maintained endpoint protection solutions to safeguard against vulnerabilities.  
+  - Administered and configured Windows operating systems for end users, deploying and managing system settings to enhance security, usability, and compliance with Defense Health Agency (DHA) policies. 
+  - Hardened Windows OS settings, ensuring secure configurations by implementing least privilege principles, managing local and domain policies.
+  - Deployed security patches and updates, maintaining system integrity and protecting against vulnerabilities while minimizing disruption to end-user productivity.  
+  - Managed endpoint protection solutions, configuring antivirus policies, monitoring threat activity, and responding to security alerts to ensure continuous protection for user workstations.    
   - Diagnosed and resolved PC hardware issues, including troubleshooting and optimizing system performance. Performed hardware upgrades and preventive maintenance to extend the lifecycle of IT assets and minimize downtime.  
   - Assisted in troubleshooting complex IT infrastructure issues, analyzing system logs, diagnosing network latency problems, and coordinating with higher-tier support teams to resolve persistent technical challenges. Leveraged diagnostic tools and security monitoring solutions to proactively identify and mitigate risks.  
   - Performed key Information System Security functions, conducting vulnerability assessments, applying security patches, and implementing risk mitigation strategies to ensure compliance with HIPAA, NIST, and DoD cybersecurity standards. Regularly reviewed system access controls, conducted security audits, and provided user training on cyber hygiene best practices.  
